@@ -4,9 +4,6 @@
 
 > An awesome & curated list of best applications and tools for Windows.
 
-> *This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
-> *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
-
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
@@ -33,7 +30,6 @@
   - [Video](#video)
 - [Setup](#setup)
     - [Windows 10](#windows-10-setup)
-    - [Windows 8.1 setup](#windows-81-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -357,10 +353,6 @@
 * http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
 * [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
 
-### Windows 8.1 Setup
-
-* http://windows.microsoft.com/en-IN/windows-8/clean-install
-
 ## Security
 
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. ![Freeware][Freeware Icon]
@@ -419,18 +411,8 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
 
-## Backers
-
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-windows#backer)
-
-<a href="https://opencollective.com/awesome-windows#backers" target="_blank"><img src="https://opencollective.com/awesome-windows/backers.svg?width=890"></a>
-
-
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-
-
